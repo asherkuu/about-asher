@@ -27,3 +27,4 @@ yarn dlx @yarnpkg/sdks vscode
 # 개발모드로 띄워보기
 
 yarn dev
+# about-asher

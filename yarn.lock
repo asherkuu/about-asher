@@ -2830,13 +2830,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/git-hooks@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@vercel/git-hooks@npm:1.0.0"
-  checksum: fc6248460a5ff900ca7ec36ccea47990951a881729ba23f593389caf42499b25cdb9360f080ed5453ebf9a8ab0556530e3396a3ae57f6a0bb94f364070d57b93
-  languageName: node
-  linkType: hard
-
 "abbrev@npm:1, abbrev@npm:^1.0.0":
   version: 1.1.1
   resolution: "abbrev@npm:1.1.1"
@@ -2854,7 +2847,6 @@ __metadata:
     "@types/node": 18.11.17
     "@types/react": ^18.0.26
     "@types/react-dom": 18.0.9
-    "@vercel/git-hooks": 1.0.0
     autoprefixer: 10.4.13
     clsx: 1.2.1
     cross-env: ^7.0.3
